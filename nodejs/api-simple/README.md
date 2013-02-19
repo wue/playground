@@ -12,5 +12,5 @@ You probably want to use something like [express](http://expressjs.com/)
 to define your endpoints. 
 
 Calling http://localhost:8000/ will route your request from server.js to controller.js 
-to service.js an simply render "Hello!" to your browser.
+to service.js and simply render "Hello!" to your browser.
 
