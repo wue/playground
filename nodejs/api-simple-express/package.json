@@ -1,0 +1,11 @@
+{
+  "name": "hello-api",
+  "description": "test app - creating api with express",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.1.x",
+	"mocha": "1.0.x",
+	"should": "1.2.x"
+  }
+}
